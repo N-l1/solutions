@@ -8,9 +8,8 @@ This is my first real use of Python apart from the theoretical learning. Nowhere
 Thanks to [**@topaz**](https://github.com/topaz) for creating [AoC](https://adventofcode.com) ✨ 
 
 <pre>      --------Part 1--------  --------Part 2--------
-Day       Time   Rank  Score       Time   Rank  Score
- 11       &gt;24h  46970      0          -      -      -
- 10   23:44:18  41275      0          -      -      -
+ 11       &gt;24h  46970      0       &gt;24h  42892      0
+ 10   23:44:18  41275      0       &gt;24h  46908      0
   9       &gt;24h  46076      0       &gt;24h  44982      0
   8   01:24:36  10734      0       &gt;24h  47852      0
   7   01:12:35   6276      0   03:06:15   8922      0
