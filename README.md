@@ -1,5 +1,5 @@
 # Advent of Code
-> Helping santa save Christmas, one ⭐ at a time
+Helping santa save Christmas, one ⭐ at a time
 
 <pre>      --------Part 1--------   --------Part 2--------
 Day       Time   Rank  Score       Time   Rank  Score
